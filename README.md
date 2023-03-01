@@ -16,6 +16,7 @@ One white arctic wolf. Usually write some codes.
 - Vue.js
 - React.js
 - Electron
+- Deno
 - ...
 
 
