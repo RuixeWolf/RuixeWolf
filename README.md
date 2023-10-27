@@ -4,18 +4,20 @@ One white arctic wolf. Usually write some codes.
 
 👀 I’m interested in:
 
-- Web frontend
-- Vue.js
-- Node.js
+- Frontend
 - TypeScript
+- Node.js
+- Vue.js
+- Electron
+- Uni-App
 - Python
 - ...
 
 🌱 I’m currently learning:
 
+- Design patterns
 - Vue.js
 - React.js
-- Electron
 - Deno
 - ...
 
