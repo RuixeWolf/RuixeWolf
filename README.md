@@ -1,15 +1,17 @@
 👋 Hi, I’m @RuixeWolf.
 
-One white arctic wolf. Usually write some codes.
+One white arctic wolf who writes code.
+
+![My skills](https://skillicons.dev/icons?i=ts,nodejs,deno,vite,electron,vue,react,express,py,mongodb,sqlite,mysql,linux,docker&theme=light)
 
 👀 I’m interested in:
 
 - Frontend
 - TypeScript
 - Node.js
-- Vue.js
 - Electron
-- Uni-App
+- Vue.js
+- React.js
 - Python
 - ...
 
