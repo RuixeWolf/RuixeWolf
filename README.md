@@ -2,7 +2,22 @@
 
 One white arctic wolf who writes code.
 
-![My skills](https://skillicons.dev/icons?i=ts,nodejs,deno,vite,electron,vue,react,express,py,mongodb,sqlite,mysql,linux,docker&theme=light)
+**Programming Languages**
+
+![Programming Languages](https://skillicons.dev/icons?i=ts,js,nodejs,deno,py,kotlin,java&theme=light)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=vite,electron,vue,react,sass&theme=light)
+
+**Backend**
+
+![Frontend](https://skillicons.dev/icons?i=express,django,mongodb,sqlite,mysql&theme=light)
+
+
+**Others**
+
+![Frontend](https://skillicons.dev/icons?i=vscode,linux,docker&theme=light)
 
 👀 I’m interested in:
 
@@ -21,12 +36,16 @@ One white arctic wolf who writes code.
 - Vue.js
 - React.js
 - Deno
+- Kotlin
+- Rust
 - ...
 
 
 📫 How to reach me:
 
 - Email: RuixeWolf@outlook.com
+
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=RuixeWolf&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" />
 
 <!---
 RuixeWolf/RuixeWolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
