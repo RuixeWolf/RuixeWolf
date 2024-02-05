@@ -2,6 +2,8 @@
 
 One white arctic wolf who writes code.
 
+Un loup blanc de l'Arctique qui écrit du code.
+
 **Programming Languages**
 
 ![Programming Languages](https://skillicons.dev/icons?i=ts,js,nodejs,deno,py,kotlin,java&theme=light)
@@ -41,11 +43,14 @@ One white arctic wolf who writes code.
 - ...
 
 
-📫 How to reach me:
+📫 How to contact me:
 
 - Email: RuixeWolf@outlook.com
 
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=RuixeWolf&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RuixeWolf&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuixeWolf&layout=compact" />
+</p>
 
 <!---
 RuixeWolf/RuixeWolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
