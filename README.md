@@ -10,16 +10,16 @@ Un loup blanc de l'Arctique qui écrit du code.
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=vite,electron,vue,react,sass&theme=light)
+![Frontend](https://skillicons.dev/icons?i=vite,electron,vue,nuxtjs,react,sass&theme=light)
 
 **Backend**
 
-![Frontend](https://skillicons.dev/icons?i=express,django,mongodb,sqlite,mysql&theme=light)
+![Frontend](https://skillicons.dev/icons?i=nestjs,express,django,mongodb,sqlite,mysql&theme=light)
 
 
 **Others**
 
-![Frontend](https://skillicons.dev/icons?i=vscode,linux,docker&theme=light)
+![Frontend](https://skillicons.dev/icons?i=npm,vscode,linux,docker&theme=light)
 
 👀 I’m interested in:
 
