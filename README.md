@@ -21,27 +21,6 @@ Un loup blanc de l'Arctique qui écrit du code.
 
 ![Frontend](https://skillicons.dev/icons?i=npm,vscode,linux,docker&theme=light)
 
-👀 I’m interested in:
-
-- Frontend
-- TypeScript
-- Node.js
-- Electron
-- Vue.js
-- React.js
-- Python
-- ...
-
-🌱 I’m currently learning:
-
-- Design patterns
-- Vue.js
-- React.js
-- Deno
-- Kotlin
-- Rust
-- ...
-
 
 📫 How to contact me:
 
