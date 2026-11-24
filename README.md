@@ -1,37 +1,22 @@
-👋 Hi, I’m @RuixeWolf.
+# Hi, I’m Ruixe Wolf
 
-One white arctic wolf who writes code.
+Arctic wolf who writes code · 写代码的北极狼 · Un loup blanc de l'Arctique qui écrit du code.
 
-Un loup blanc de l'Arctique qui écrit du code.
+I build full-stack web apps and developer tools in TypeScript. I use AI coding agents to plan changes, implement features, and verify them end to end.
 
-**Programming Languages**
+**Open to remote full-stack engineering roles and open-source collaboration.**
 
-![Programming Languages](https://skillicons.dev/icons?i=ts,js,nodejs,deno,py,kotlin,java&theme=light)
+[Email](mailto:RuixeWolf@outlook.com) · [Blog in English](https://blog.ruixe.net/en) · [中文博客](https://blog.ruixe.net/zh)
 
-**Frontend**
+TypeScript · React · Next.js · Node.js
 
-![Frontend](https://skillicons.dev/icons?i=vite,electron,vue,nuxtjs,react,sass&theme=light)
+## Selected projects
 
-**Backend**
+- [Modbus Simulator](https://github.com/RuixeWolf/modbus-simulator) — A Modbus TCP and RTU simulator with a live web dashboard and an Agent Skill for automated testing.
+- [Node NI-VISA](https://github.com/RuixeWolf/node-ni-visa) — Node.js bindings for controlling test and measurement instruments through NI-VISA.
+- [Ruixe Blog](https://github.com/RuixeWolf/ruixe-blog) — My bilingual Next.js blog, with English and Chinese posts stored as MDX files.
 
-![Frontend](https://skillicons.dev/icons?i=nestjs,express,django,mongodb,sqlite,mysql&theme=light)
+## Selected writing
 
-
-**Others**
-
-![Frontend](https://skillicons.dev/icons?i=npm,vscode,linux,docker&theme=light)
-
-
-📫 How to contact me:
-
-- Email: RuixeWolf@outlook.com
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RuixeWolf&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuixeWolf&layout=compact" />
-</p>
-
-<!---
-RuixeWolf/RuixeWolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [My AI Coding Workflow in Mid-2026](https://blog.ruixe.net/en/posts/ai-coding-workflow-2026-mid)
+- [Adding AI Support to My Modbus Simulator](https://blog.ruixe.net/en/posts/modbus-simulator-ai-support)
